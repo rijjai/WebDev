@@ -27,17 +27,17 @@ a{
 /* Challenge 10: Modify the below CSS rule in order set the flex property for all the hyperlinks in the nav element to 1 */
 nav a{
   flex:1;
-  text-align:center;
+  text-align: center;
   padding:10px;
   transition:0.5s
 }
 nav a:hover{
-    background-color:blue;
+    background-color: blue;
     color:white;
     transition:0.5s;
 }
 #banner{
-  background-color:blue;
+  background-color: blue;
   color:white;
   padding:20px;
 }
